@@ -1,1 +1,14 @@
-{"modules":{}}
+{
+  "modules": {
+    "demo-module": {
+      "version": "0.0.1",
+      "manifestUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-demo-module-0.0.1/module.json",
+      "bundleUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-demo-module-0.0.1/demo-module-0.0.1.zip"
+    },
+    "web_modules_manager": {
+      "version": "0.0.1",
+      "manifestUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-web_modules_manager-0.0.1/module.json",
+      "bundleUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-web_modules_manager-0.0.1/web_modules_manager-0.0.1.zip"
+    }
+  }
+}
