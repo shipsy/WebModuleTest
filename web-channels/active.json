@@ -1,14 +1,16 @@
 {
-  "modules": {
-    "demo-module": {
+  "channel": "stable",
+  "updated_at": 1779352000000,
+  "entries": [
+    {
+      "module_id": "demo-module",
       "version": "0.0.1",
-      "manifestUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-demo-module-0.0.1/module.json",
-      "bundleUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-demo-module-0.0.1/demo-module-0.0.1.zip"
+      "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-demo-module-0.0.1/demo-module-manifest.json"
     },
-    "web_modules_manager": {
+    {
+      "module_id": "web_modules_manager",
       "version": "0.0.1",
-      "manifestUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-web_modules_manager-0.0.1/module.json",
-      "bundleUrl": "https://github.com/shipsy/WebModuleTest/releases/download/web-web_modules_manager-0.0.1/web_modules_manager-0.0.1.zip"
+      "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-web_modules_manager-0.0.1/web_modules_manager-manifest.json"
     }
-  }
+  ]
 }
