@@ -1,11 +1,11 @@
 {
   "channel": "stable",
-  "updated_at": 1779352000000,
+  "updated_at": 1779357714000,
   "entries": [
     {
       "module_id": "demo-module",
-      "version": "0.0.1",
-      "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-demo-module-0.0.1/demo-module-manifest.json"
+      "version": "0.0.2",
+      "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-demo-module-0.0.2/demo-module-manifest.json"
     },
     {
       "module_id": "web_modules_manager",
