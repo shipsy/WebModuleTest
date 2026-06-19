@@ -1,6 +1,6 @@
 {
   "channel": "stable",
-  "updated_at": 1779450615000,
+  "updated_at": 1781843675000,
   "entries": [
     {
       "module_id": "demo-module",
@@ -11,6 +11,11 @@
       "module_id": "web_modules_manager",
       "version": "0.0.2",
       "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-web_modules_manager-0.0.2/web_modules_manager-manifest.json"
+    },
+    {
+      "module_id": "appointment",
+      "version": "0.0.1",
+      "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-appointment-0.0.1/appointment-manifest.json"
     }
   ]
 }
