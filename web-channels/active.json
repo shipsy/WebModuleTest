@@ -1,6 +1,6 @@
 {
   "channel": "stable",
-  "updated_at": 1781843675000,
+  "updated_at": 1784144771198,
   "entries": [
     {
       "module_id": "demo-module",
@@ -16,6 +16,11 @@
       "module_id": "appointment",
       "version": "0.0.1",
       "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-appointment-0.0.1/appointment-manifest.json"
+    },
+    {
+      "module_id": "kyc",
+      "version": "0.0.2",
+      "manifest_url": "https://github.com/shipsy/WebModuleTest/releases/download/web-kyc-0.0.2/kyc-manifest.json"
     }
   ]
 }
